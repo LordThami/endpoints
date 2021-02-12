@@ -1,0 +1,13 @@
+<?php
+
+$config = array(
+	"appcode" => "eyJzdWIiOiIxMjM0NTY3ODkwIiwibmFtZSI6IkpvaG4gRG9lIiwiaWF0IjoxNTE2MjM5MDIyfQ",
+	"ubi-email" => "snopdev@gmail.com",
+	"ubi-password" => "005511az+",
+	"default-region" => "emea", // Regions: emea - ncsa - apac 
+	"default-stats" => "generalpve_totalxp,generalpve_timeplayed,generalpve_suicide,generalpve_servershacked,generalpve_serverdefender,generalpve_serveraggression,generalpve_revivedenied,generalpve_revive,generalpve_reinforcementdeploy,generalpve_rappelbreach,generalpve_penetrationkills,generalpve_meleekills,generalpve_matchwon,generalpve_matchwlratio,generalpve_matchplayed,generalpve_matchlost,generalpve_kills,generalpve_killassists,generalpve_kdratio,generalpve_hostagerescue,generalpve_hostagedefense,generalpve_headshot,generalpve_gadgetdestroy,generalpve_distancetravelled,generalpve_death,generalpve_dbnoassists,generalpve_dbno,generalpve_bullethit,generalpve_bulletfired,generalpve_blindkills,generalpve_barricadedeployed,generalpve_accuracy,plantbombpvp_timeplayed,plantbombpvp_matchwon,plantbombpvp_matchplayed,plantbombpvp_matchlost,plantbombpvp_bestscore,rescuehostagepvp_timeplayed,rescuehostagepvp_matchwon,rescuehostagepvp_matchplayed,rescuehostagepvp_matchlost,rescuehostagepvp_bestscore,secureareapvp_timeplayed,secureareapvp_matchwon,secureareapvp_matchplayed,secureareapvp_matchlost,secureareapvp_bestscore,rankedpvp_timeplayed,rankedpvp_matchwon,rankedpvp_matchwlratio,rankedpvp_matchplayed,rankedpvp_matchlost,rankedpvp_kills,rankedpvp_kdratio,rankedpvp_death,casualpvp_timeplayed,casualpvp_matchwon,casualpvp_matchwlratio,casualpvp_matchplayed,casualpvp_matchlost,casualpvp_kills,casualpvp_kdratio,casualpvp_death,generalpvp_totalxp,generalpvp_timeplayed,generalpvp_suicide,generalpvp_servershacked,generalpvp_serverdefender,generalpvp_serveraggression,generalpvp_revive,generalpvp_reinforcementdeploy,generalpvp_rappelbreach,generalpvp_penetrationkills,generalpvp_meleekills,generalpvp_matchwon,generalpvp_matchplayed,generalpvp_matchlost,generalpvp_kills,generalpvp_killassists,generalpvp_hostagerescue,generalpvp_hostagedefense,generalpvp_headshot,generalpvp_gadgetdestroy,generalpvp_death,generalpvp_dbnoassists,generalpvp_dbno,generalpvp_bullethit,generalpvp_bulletfired,generalpvp_blindkills,generalpvp_barricadedeployed,generalpvp_accuracy,casualpvp_death,casualpvp_kdratio,casualpvp_kills", // All stats: https://gist.github.com/sidelux/c2724e64acb7e1b8921c11572800f8d4
+	"default-platform" => "uplay", // Platforms: uplay - xbl - psn
+	"default-progression" => "true" // Enabled: true - false
+);
+
+?>
